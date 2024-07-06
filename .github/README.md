@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://getlasso.dev/images/lasso-logo-small.png" alt="Lasso" height="150">
+  <img src="https://github.com/Sammyjo20/lasso/assets/29132017/7033cce2-ef5a-46b0-a01b-69e6f9f2e4c4" alt="Lasso" height="150">
 
 # Lasso
 ### Asset wrangling for Laravel made simple.
